@@ -34,7 +34,6 @@ class Course {
 	endDate blank: false
 	studyMode nullable: false
 	studyMode blank: false
-	studyMode minSize:20
 	description nullable: false
 	description blank: false
 	description maxSize: 5000
